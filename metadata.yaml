@@ -1,0 +1,31 @@
+_repo: The-old-and-the-new-Peru-b-A-story-of-the-ancient-inheritance-and-the-modern-growth-and-enter__75033
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wright, Marie Robinson
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5258'
+    url: http://www.gutenberg.org/2009/agents/5258
+    wikipedia: https://en.wikipedia.org/wiki/Marie_Robinson_Wright
+description: ''
+gutenberg_issued: '2025-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75033'
+language: en
+pgterms:marc904: https://archive.org/details/oldnewperustoryo00wriguoft/page/n9/mode/2up
+pgterms:marc905: 20221212182901wright
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bGeorge Barrie & Sons, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The old and the new Peru : $b A story of the ancient inheritance and the modern
+  growth and enterprise of a great nation'
+url: http://www.gutenberg.org/ebooks/75033
