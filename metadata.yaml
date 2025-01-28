@@ -1,5 +1,8 @@
 _repo: The-old-and-the-new-Peru-b-A-story-of-the-ancient-inheritance-and-the-modern-growth-and-enter__75033
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75033-h/images/cover.jpg
 creator:
   author:
     agent_name: Wright, Marie Robinson
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5258
     wikipedia: https://en.wikipedia.org/wiki/Marie_Robinson_Wright
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75033#The-old-and-the-new-Peru-b-A-story-of-the-ancient-inheritance-and-the-modern-growth-and-enter_
 gutenberg_issued: '2025-01-04'
 gutenberg_type: Text
 identifiers:
